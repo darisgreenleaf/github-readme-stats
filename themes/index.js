@@ -462,6 +462,13 @@ export const themes = {
     icon_color: "ffffff",
     bg_color: "35,4158d0,c850c0,ffcc70",
   },
+  pink_rose: {
+    title_color: "fa72b4",
+    text_color: "fa72b4",
+    icon_color: "ebcfb2",
+    border_color: "e1bc29",
+    bg_color: "ffc5df",
+    },
 };
 
 export default themes;
